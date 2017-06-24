@@ -1,7 +1,15 @@
 ## Welcome to OSKboard Keyboard Layout Project
 
-You can use the [editor on GitHub](https://github.com/oskboard/oskboard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [OSKboard](https://github.com/oskboard/oskboard/edit/master/index.md) by downloading,  installing, and choose OSK keyboard layout. 
 
+OSKboard has 2 languages version--English and Thai. Each of them separated by installation file in the following list: OSKboard English 
+OSKboard Thai 
+
+OSKboard English has O and S and K on the left-most side of third row from bottom. O key replaces A key and K key replaces D key. 
+ 
+OSKboard Thai has key and key and key. 
+ 
+ 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
